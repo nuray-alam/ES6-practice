@@ -16,7 +16,7 @@ console.log(result);
 const sum = add(5,10);
 console.log(sum);
 
-const funtionWithMultilineCode = (x, y) => {
+const functionWithMultilineCode = (x, y) => {
     const sum = x + y;
     const difference = x - y;
     const result = sum * difference;
